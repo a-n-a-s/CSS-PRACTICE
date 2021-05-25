@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    background-color: rgb(22,22,29);
+    color: #FFD700;
+    margin: 20px;
+}
+.content{
+    height: 800px;
+    background-color: rgb(150, 150, 255);
+    color: #000000;
+    padding: 10px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+.footer{
+    height: 70px;
+    background-color: rgb(22,22,29);
+    color: #ffffff;
+    padding: 10px;
+    margin: 20px;
+}

@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 30vh;
+    background-color: #000;
+}
+img{
+    float: left;
+    width: 30%;
+    height: 100%;
+}
+.box1{
+    float: right;
+    background-color: red;
+    color: white;
+    width: 70%;
+    height: 100%;
+}
+.flexbox{
+    height: 30vh;
+    background-color: #000ff3;
+    display: flex;
+    flex-direction: row;
+
+}
+.flexbox1{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 70%;
+    height: 100%;
+
+}
+.img1{
+   
+    
+    width: 30%;
+    height: 100%;
+}
+.navbar{
+    height: 10vh;
+    background-color: #000;
+    color: white;
+    display: flex;
+    justify-content: left; 
+    align-items: center;
+    /* border: 2px solid whitesmoke; */
+    
+    
+
+}
+ul{
+   margin-left:1% ;
+   width: 100%;
+}
+li{
+    margin: 0% 2%;
+    list-style:none ;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    display: inline;
+   
+}
+.logo{
+    width: 5%;
+    height: 50%;
+    margin-left: 5%;
+ 
+}
+.div1{
+    height: 50vh;
+    width: 30%;
+    background-color: darkcyan;
+}
+.div2{
+    height: 50vh;
+    width: 30%;
+    background-color:firebrick;
+}
+.bigdiv{
+    display: flex;
+    justify-content: space-between;
+    height: 70vh;
+}
+
+.nav{
+    height: 10vh;
+    background-color: #2a2a2a;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.myimg{
+    width: 5%;
+    height: 40%;
+    margin-left: 5%;
+}
+.links{
+    width: 25%;
+}
+.bgimg{
+    height: 40vh;
+    background: url('https://source.unsplash.com/random') #99f no-repeat ;
+    
+    
+}
+.cards{
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.card1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.card2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.card3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

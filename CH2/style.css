@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style-type: none;
+    
+
+}
+nav{
+    background-color: rgb(12, 12, 243);
+    color: aliceblue;
+}
+.main{
+    color: red;
+}
+.bg-img{
+    background: purple url('https://source.unsplash.com/1600x900/?nature,water') no-repeat;
+    width: 1000px;
+    height: 1000px;
+    color: white;
+}
+.verical{
+    width: 200px;
+    height: 1500px;
+    background : url('https://source.unsplash.com/200x500/?glass') no-repeat;
+    /* color: white; */
+    background-attachment: fixed;
+}

@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/* .progress-bar {
+  width: 100%;
+  height: 4px;
+  background-color: rgb(255, 0, 0);
+  animation: progress 0.5s ease-in 0.3s infinite alternate-reverse;
+}
+@keyframes progress {
+  0% {
+    background-color: red;
+  }
+
+  100% {
+    background-color: rgb(255, 0, 200);
+  }
+}
+.progress-bar2 {
+  margin-top: 20px;
+  width: 100%;
+  height: 10px;
+  background-color: rgb(255, 0, 0);
+  transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+.progress-bar2:hover {
+  background-color: blue;
+}
+.rotating-image {
+  margin: 0 10px;
+  transform: rotateY(0deg);
+  animation-name: rotate;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+}
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+.images{
+    display: grid;
+    grid-template-columns: 100% 100% 100%;
+    justify-content: space-between;
+}
+.o1{
+
+}
+.o2{
+
+}
+.o3{
+
+}
+@keyframes img1 {
+    
+    
+}
